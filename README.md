@@ -1,4 +1,4 @@
-# RiskRadar — AI Safety Investigator (PS 04)
+# RiskRadar — AI Safety Investigator 
 
 RiskRadar analyzes industrial equipment telemetry, maintenance logs, and
 historical failure records to answer four questions an investigator would
